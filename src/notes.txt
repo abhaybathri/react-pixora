@@ -1,0 +1,7 @@
+api url = https://picsum.photos/v2/list
+
+https://picsum.photos/v2/list?page=2 
+this contain another 30 photos.
+
+https://picsum.photos/v2/list?page=2&limit=2
+if we want photos in limit 
